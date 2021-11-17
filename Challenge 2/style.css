@@ -1,0 +1,35 @@
+.header{
+    padding: 20px;
+    justify-content: space-between;
+    color: black;
+    flex-wrap: wrap;
+    display: flex;
+    float: left;
+}
+
+
+img {
+    display: block;
+  margin-right: auto;
+  justify-content: space-between;
+}
+
+h1{
+    text-align: center;
+    justify-content: space-between;
+}
+
+
+
+.msin p{
+    text-align: auto;
+    color: black;
+    flex-wrap: wrap;
+    display: flex;
+    float: left;
+    justify-content: space-between;
+}
+
+.work {
+    justify-content: space-between;
+}
